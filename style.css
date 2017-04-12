@@ -1,0 +1,94 @@
+.wrapper{
+}
+.logo{
+	width: 75%;
+display: inline-block;
+box-sizing: border-box;
+padding: 0 0 0 40px;
+}
+.logo h1{
+display: inline-block;
+box-sizing: border-box;
+}
+.img{
+	width: 20%;
+	display: inline-block;
+	padding: 0 0 0 0px;
+	float: right;
+	box-sizing: border-box;
+}
+.menubar ul li{
+list-style: none;
+display: inline-block;
+padding: 0 30px 0 0;
+box-sizing: border-box;
+float: left;
+}
+.menubar ul li:home {
+	color: green;
+}
+.menubar{
+	
+	overflow: hidden;
+}
+.slider{
+background-image:url(back.png);
+}
+.slider img{
+	position: relative;
+	left: 260px;
+	top: 20px;
+}
+.slidcon{
+	
+	text-align: center;
+	padding: 20px 0 0 0;
+}
+.but{
+	text-align: center;
+	color: green;
+	overflow: hidden;
+
+}
+.but button {
+background-color: green;
+font-size:20px;
+color: white;
+
+}
+.are{
+	background-color:gray;
+	overflow: hidden;
+	padding: 10px 0 0 0;
+	box-sizing: border-box;
+
+}
+.are h1{
+padding: 2px 0 0 90px;
+}
+.bt{
+	float: right;
+	overflow: hidden;
+	padding: 0 400px 30px 0;
+	box-sizing: border-box;
+	margin:0 0 50px 0;
+	position: relative;
+	bottom: 50px;
+}
+.bt button{
+	background-color: green;
+	font-size:20px;
+	box-sizing: border-box;
+	color: white;
+}
+.footer{
+	float: left;
+	overflow: hidden;
+}
+.hw{
+	float: right;
+	overflow: hidden;
+	position: relative;
+	left:532px;
+
+}
